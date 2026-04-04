@@ -754,8 +754,8 @@ PORT=5000
 NODE_ENV=development
 
 # Database
-MONGODB_URI=mongodb+srv://parasgogia4_db_user:AWLoOhGxKIYgcgts@cluster0.nptl46d.mongodb.net/?appName=Cluster0
-MONGODB_URI_PRODUCTION=mongodb+srv://parasgogia4_db_user:AWLoOhGxKIYgcgts@cluster0.nptl46d.mongodb.net/?appName=Cluster0
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster.mongodb.net/<database>
+MONGODB_URI_PRODUCTION=mongodb+srv://<username>:<password>@cluster.mongodb.net/<database>
 
 # JWT
 JWT_SECRET=your_super_secret_jwt_key_change_in_production
@@ -824,5 +824,14 @@ For issues or questions, please refer to the inline code comments and API docume
 10. Implement backup and disaster recovery procedures
 
 ---
+
+👨‍💻 Author
+
+Paras Gogia
+Electronics & Communication Engineering, PEC Chandigarh
+
+⭐ Final Note
+
+This project demonstrates backend engineering concepts including authentication, fine-grained RBAC, data validation, and scalable API design.
 
 **Happy coding! 🚀**
