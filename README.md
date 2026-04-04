@@ -173,7 +173,7 @@ zorvyn_project/
 
 6. **Verify the server**
    ```bash
-   curl http://localhost:5000/health
+    http://localhost:5000/health
    ```
 
 ---
