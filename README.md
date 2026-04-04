@@ -825,13 +825,12 @@ For issues or questions, please refer to the inline code comments and API docume
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Paras Gogia
 Electronics & Communication Engineering, PEC Chandigarh
 
-⭐ Final Note
+## ⭐ Final Note
 
 This project demonstrates backend engineering concepts including authentication, fine-grained RBAC, data validation, and scalable API design.
 
-**Happy coding! 🚀**
