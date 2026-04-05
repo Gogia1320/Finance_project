@@ -1,5 +1,3 @@
-<img width="476" height="531" alt="image" src="https://github.com/user-attachments/assets/ecd6babf-a9ee-4f77-88f7-eb549e9d667f" /># Finance Data Processing & Access Control System
-
 A production-quality backend for managing financial data with role-based access control (RBAC), JWT authentication, and comprehensive analytics APIs.
 
 ## 📋 Table of Contents
