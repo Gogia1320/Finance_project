@@ -1,5 +1,3 @@
-# Finance Data Processing & Access Control System
-
 A production-quality backend for managing financial data with role-based access control (RBAC), JWT authentication, and comprehensive analytics APIs.
 
 ## 📋 Table of Contents
@@ -675,6 +673,23 @@ curl -X GET "http://localhost:5000/api/records?startDate=2024-01-01&endDate=2024
 ```
 
 ---
+## 📬 Postman Collection
+
+All APIs can be tested using the provided Postman collection:
+
+* File: `/postman/finance-apis.json`
+
+### Steps to use:
+
+1. Import the file into Postman
+2. Set environment variable:
+
+   * `base_url = http://localhost:5000/api`
+3. Login once to auto-generate `token`
+4. Use `Bearer {{token}}` for authenticated APIs
+
+---
+
 
 ## ⚠️ Error Handling
 
